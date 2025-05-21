@@ -5,7 +5,7 @@
 *#
 .#*
 **/CVS/
-
+*.db
 
 # Ignore possible symlinked build and install directories
 # Note: we can't use a / at the end because they might be
